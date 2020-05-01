@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.i
+joy64_auto.s
+joy64.s
+joy64_port.s
